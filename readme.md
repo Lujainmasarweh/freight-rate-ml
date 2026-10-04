@@ -69,7 +69,7 @@ month to month. They are also absent from the December chart inputs.
 | Model | MAE | MAPE | MAE (excl. outliers) | MAPE (excl. outliers) |
 |---|---|---|---|---|
 | Baseline: median rate-per-mile x distance | 254 | 11.4% | 205 | 9.2% |
-| LightGBM | 102 | 4.5% | 51 | 2.1% |
+| LightGBM | 102 | 4.4% | 51 | 2.1% |
 
 ## Limitations
 
